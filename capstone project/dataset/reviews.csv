@@ -1,0 +1,481 @@
+Product,Review_Text,Rating,Sentiment
+Air Fryer,This Air Fryer is great. the coffee maker brews quickly and keeps the coffee hot. Love it!,5,Positive
+Running Shoes,"For a Running Shoes, decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Wireless Headphones,"Got this Wireless Headphones last week. not bad for the price, but there are better options available.",3,Neutral
+Ergonomic Office Chair,"Not bad for the price, but there are better options available.",3,Neutral
+Electric Toothbrush,This Electric Toothbrush was a complete letdown. extremely disappointed. The item looks nothing like the picture.,1,Negative
+Laptop Stand,"For a Laptop Stand, it works, but the user interface is a bit dated and slow.",3,Neutral
+Robot Vacuum,Bought this Robot Vacuum and regret it. avoid at all costs! The product has a strong chemical smell and is defective.,1,Negative
+Robot Vacuum,I bought this Robot Vacuum and very happy with this purchase. It is worth every single penny.,5,Positive
+Running Shoes,"Got this Running Shoes last week. it does what it says, but the customer support was hard to reach.",3,Neutral
+Robot Vacuum,This Robot Vacuum was a complete letdown. very noisy and vibrates too much. It is extremely annoying to use.,2,Negative
+Espresso Machine,"For a Espresso Machine, it is decent. Nothing to complain about but nothing to praise either.",3,Neutral
+Robot Vacuum,"For a Robot Vacuum, it is acceptable. Not the best build quality but works for now.",3,Neutral
+Ergonomic Office Chair,Avoid at all costs! The product has a strong chemical smell and is defective.,2,Negative
+Espresso Machine,Beautiful design and highly functional. It looks great in my living room.,4,Positive
+Laptop Stand,The screen is blurry and has dead pixels. Zero quality control.,2,Negative
+Running Shoes,My new Running Shoes arrived and beautiful design and highly functional. It looks great in my living room.,4,Positive
+Air Fryer,It serves its purpose. Neither disappointed nor overly impressed.,3,Neutral
+Ergonomic Office Chair,"For a Ergonomic Office Chair, it is acceptable. Not the best build quality but works for now.",3,Neutral
+Air Fryer,It is acceptable. Not the best build quality but works for now.,3,Neutral
+Robot Vacuum,Outstanding customer service. They resolved my query within minutes.,5,Positive
+Ergonomic Office Chair,Do not buy this Ergonomic Office Chair! very noisy and vibrates too much. It is extremely annoying to use.,2,Negative
+Laptop Stand,I bought this Laptop Stand and very robust construction and high-quality materials. Highly durable.,4,Positive
+Electric Toothbrush,I bought this Electric Toothbrush and quiet and efficient vacuum cleaner. It picks up pet hair easily.,4,Positive
+Robot Vacuum,Bought this Robot Vacuum and regret it. the package arrived missing half the parts. Had to return it immediately.,1,Negative
+Robot Vacuum,I bought this Robot Vacuum and absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Wireless Headphones,My new Wireless Headphones arrived and really simple to set up and use. The user manual was clear and helpful.,4,Positive
+Smart Watch,I bought this Smart Watch and excellent picture quality and great sound on this TV. Highly recommended.,5,Positive
+Bluetooth Speaker,"Regarding this Bluetooth Speaker, it's a fair product. Satisfactory performance but not outstanding.",3,Neutral
+Espresso Machine,It serves its purpose. Neither disappointed nor overly impressed.,3,Neutral
+Electric Toothbrush,"Do not buy this Electric Toothbrush! the size is completely wrong, way too tight and uncomfortable to wear.",1,Negative
+Air Fryer,I bought this Air Fryer and very fast performance and sleek design. Couldn't ask for a better laptop.,5,Positive
+Air Fryer,Beautiful design and highly functional. It looks great in my living room.,4,Positive
+Air Fryer,"Regarding this Air Fryer, it's a fair product. Satisfactory performance but not outstanding.",3,Neutral
+Smart Watch,My new Smart Watch arrived and outstanding customer service. They resolved my query within minutes.,5,Positive
+Electric Toothbrush,This Electric Toothbrush was a complete letdown. very poor quality. The material is flimsy and feels like it will break easily.,1,Negative
+Running Shoes,Do not buy this Running Shoes! it is way too overpriced for such low-quality materials. Highly disappointed.,1,Negative
+Laptop Stand,Great book! Couldn't put it down. Highly recommend to everyone.,4,Positive
+Running Shoes,"For a Running Shoes, the packaging was damaged, but the product inside was fine.",3,Neutral
+Ergonomic Office Chair,This Ergonomic Office Chair was a complete letdown. very slow and laggy. The app crashes every time I try to open it.,1,Negative
+Wireless Headphones,I bought this Wireless Headphones and absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Running Shoes,Worst purchase ever. The battery dies in two hours and it gets extremely hot.,2,Negative
+Bluetooth Speaker,My new Bluetooth Speaker arrived and the coffee maker brews quickly and keeps the coffee hot. Love it!,5,Positive
+Running Shoes,This Running Shoes is great. very lightweight and easy to carry around. Ideal for travel.,4,Positive
+Running Shoes,This Running Shoes was a complete letdown. the product arrived broken and the return process has been a nightmare.,2,Negative
+Espresso Machine,"Regarding this Espresso Machine, it works, but the user interface is a bit dated and slow.",3,Neutral
+Espresso Machine,Bought this Espresso Machine and regret it. worst purchase ever. The battery dies in two hours and it gets extremely hot.,1,Negative
+Air Fryer,The product arrived broken and the return process has been a nightmare.,1,Negative
+Ergonomic Office Chair,"For a Ergonomic Office Chair, the fabric is fine, but the color is slightly different from the photos.",3,Neutral
+Electric Toothbrush,"For a Electric Toothbrush, average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Robot Vacuum,"I bought this Robot Vacuum and super comfortable shoes, perfect for running. Will definitely buy again.",5,Positive
+Ergonomic Office Chair,"Not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Air Fryer,The package arrived missing half the parts. Had to return it immediately.,1,Negative
+Laptop Stand,"Got this Laptop Stand last week. instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Electric Toothbrush,"Regarding this Electric Toothbrush, a standard product. Works well enough for basic everyday tasks.",3,Neutral
+Running Shoes,It serves its purpose. Neither disappointed nor overly impressed.,3,Neutral
+Electric Toothbrush,This Electric Toothbrush was a complete letdown. dries out my skin and has an unpleasant smell. Waste of money.,1,Negative
+Laptop Stand,The product arrived broken and the return process has been a nightmare.,2,Negative
+Laptop Stand,"Uncomfortable, heavy, and hurts my ears after ten minutes. Do not recommend.",2,Negative
+Bluetooth Speaker,This Bluetooth Speaker was a complete letdown. it is way too overpriced for such low-quality materials. Highly disappointed.,1,Negative
+Running Shoes,This Running Shoes was a complete letdown. the package arrived missing half the parts. Had to return it immediately.,2,Negative
+Smart Watch,Bought this Smart Watch and regret it. the software is full of bugs and constant errors. Frustrating experience.,2,Negative
+Electric Toothbrush,I bought this Electric Toothbrush and very robust construction and high-quality materials. Highly durable.,4,Positive
+Wireless Headphones,The software is full of bugs and constant errors. Frustrating experience.,2,Negative
+Espresso Machine,"For a Espresso Machine, not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Running Shoes,"Regarding this Running Shoes, it is acceptable. Not the best build quality but works for now.",3,Neutral
+Espresso Machine,"Shipping took longer than expected, but the item itself is fine.",3,Neutral
+Air Fryer,"Regarding this Air Fryer, it is acceptable. Not the best build quality but works for now.",3,Neutral
+Wireless Headphones,"Regarding this Wireless Headphones, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Running Shoes,"For a Running Shoes, it performs as expected. Nothing special, but it gets the job done.",3,Neutral
+Running Shoes,"Not bad for the price, but there are better options available.",3,Neutral
+Electric Toothbrush,My new Electric Toothbrush arrived and absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Air Fryer,"It does what it says, but the customer support was hard to reach.",3,Neutral
+Electric Toothbrush,Do not buy this Electric Toothbrush! extremely disappointed. The item looks nothing like the picture.,1,Negative
+Espresso Machine,This Espresso Machine was a complete letdown. the screen is blurry and has dead pixels. Zero quality control.,1,Negative
+Bluetooth Speaker,"Decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Espresso Machine,"Regarding this Espresso Machine, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Air Fryer,This Air Fryer was a complete letdown. waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Air Fryer,"Regarding this Air Fryer, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Running Shoes,"Not bad for the price, but there are better options available.",3,Neutral
+Electric Toothbrush,"Regarding this Electric Toothbrush, it's a fair product. Satisfactory performance but not outstanding.",3,Neutral
+Espresso Machine,"Not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Bluetooth Speaker,This Bluetooth Speaker was a complete letdown. the package arrived missing half the parts. Had to return it immediately.,1,Negative
+Laptop Stand,I bought this Laptop Stand and the coffee maker brews quickly and keeps the coffee hot. Love it!,5,Positive
+Electric Toothbrush,"Average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Wireless Headphones,I bought this Wireless Headphones and works exactly as advertised. Clean design and very efficient.,5,Positive
+Espresso Machine,This Espresso Machine was a complete letdown. very slow delivery and the product died within three days. Frustrated.,1,Negative
+Ergonomic Office Chair,This Ergonomic Office Chair was a complete letdown. very slow delivery and the product died within three days. Frustrated.,2,Negative
+Bluetooth Speaker,"For a Bluetooth Speaker, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Espresso Machine,Very slow delivery and the product died within three days. Frustrated.,2,Negative
+Wireless Headphones,"Got this Wireless Headphones last week. not bad for the price, but there are better options available.",3,Neutral
+Electric Toothbrush,Bought this Electric Toothbrush and regret it. the screen is blurry and has dead pixels. Zero quality control.,1,Negative
+Ergonomic Office Chair,Do not buy this Ergonomic Office Chair! avoid at all costs! The product has a strong chemical smell and is defective.,2,Negative
+Robot Vacuum,"For a Robot Vacuum, the design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Running Shoes,My new Running Shoes arrived and great value for money. Very fast delivery and excellent customer service.,4,Positive
+Robot Vacuum,Do not buy this Robot Vacuum! avoid at all costs! The product has a strong chemical smell and is defective.,2,Negative
+Bluetooth Speaker,"For a Bluetooth Speaker, it is an okay product, not too good but not bad either. Average quality.",3,Neutral
+Robot Vacuum,I bought this Robot Vacuum and absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Wireless Headphones,This Wireless Headphones is great. the app integration is seamless and works flawlessly with my smartphone.,5,Positive
+Running Shoes,This Running Shoes is great. excellent build quality and very comfortable to use daily. Five stars!,4,Positive
+Electric Toothbrush,Bought this Electric Toothbrush and regret it. worst purchase ever. The battery dies in two hours and it gets extremely hot.,2,Negative
+Ergonomic Office Chair,"For a Ergonomic Office Chair, shipping took longer than expected, but the item itself is fine.",3,Neutral
+Bluetooth Speaker,Very lightweight and easy to carry around. Ideal for travel.,4,Positive
+Laptop Stand,"The design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Running Shoes,"Regarding this Running Shoes, decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Robot Vacuum,It is acceptable. Not the best build quality but works for now.,3,Neutral
+Electric Toothbrush,"Got this Electric Toothbrush last week. the packaging was damaged, but the product inside was fine.",3,Neutral
+Bluetooth Speaker,"This Bluetooth Speaker was a complete letdown. uncomfortable, heavy, and hurts my ears after ten minutes. Do not recommend.",2,Negative
+Air Fryer,"Fairly easy to use, though the app crashes occasionally.",3,Neutral
+Laptop Stand,Bought this Laptop Stand and regret it. terrible product. It broke on the first day and customer support was useless.,1,Negative
+Air Fryer,"Regarding this Air Fryer, the design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Air Fryer,Very lightweight and easy to carry around. Ideal for travel.,5,Positive
+Running Shoes,"For a Running Shoes, not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Running Shoes,Bought this Running Shoes and regret it. the package arrived missing half the parts. Had to return it immediately.,2,Negative
+Bluetooth Speaker,I bought this Bluetooth Speaker and outstanding customer service. They resolved my query within minutes.,5,Positive
+Ergonomic Office Chair,"My new Ergonomic Office Chair arrived and super comfortable shoes, perfect for running. Will definitely buy again.",4,Positive
+Ergonomic Office Chair,This Ergonomic Office Chair was a complete letdown. it is way too overpriced for such low-quality materials. Highly disappointed.,2,Negative
+Laptop Stand,"For a Laptop Stand, it's a fair product. Satisfactory performance but not outstanding.",3,Neutral
+Wireless Headphones,My new Wireless Headphones arrived and beautiful design and highly functional. It looks great in my living room.,5,Positive
+Running Shoes,Extremely disappointed. The item looks nothing like the picture.,1,Negative
+Air Fryer,"Do not buy this Air Fryer! uncomfortable, heavy, and hurts my ears after ten minutes. Do not recommend.",1,Negative
+Bluetooth Speaker,This Bluetooth Speaker is great. impressed by the battery life. Lasts more than two days on a single charge.,4,Positive
+Laptop Stand,Bought this Laptop Stand and regret it. the screen is blurry and has dead pixels. Zero quality control.,2,Negative
+Smart Watch,Great value for money. Very fast delivery and excellent customer service.,5,Positive
+Bluetooth Speaker,This Bluetooth Speaker is great. very robust construction and high-quality materials. Highly durable.,4,Positive
+Bluetooth Speaker,The coffee maker brews quickly and keeps the coffee hot. Love it!,4,Positive
+Espresso Machine,"Regarding this Espresso Machine, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Running Shoes,It fits perfectly and the fabric is extremely soft and durable.,4,Positive
+Wireless Headphones,A standard product. Works well enough for basic everyday tasks.,3,Neutral
+Espresso Machine,"Not bad for the price, but there are better options available.",3,Neutral
+Robot Vacuum,"I bought this Robot Vacuum and stunning quality, the packaging was secure and it arrived early.",5,Positive
+Air Fryer,My new Air Fryer arrived and very fast performance and sleek design. Couldn't ask for a better laptop.,5,Positive
+Running Shoes,"Not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Wireless Headphones,"For a Wireless Headphones, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Espresso Machine,My new Espresso Machine arrived and absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Electric Toothbrush,Do not buy this Electric Toothbrush! very poor quality. The material is flimsy and feels like it will break easily.,2,Negative
+Running Shoes,This Running Shoes is great. works exactly as advertised. Clean design and very efficient.,5,Positive
+Bluetooth Speaker,My new Bluetooth Speaker arrived and the app integration is seamless and works flawlessly with my smartphone.,4,Positive
+Bluetooth Speaker,Got this Bluetooth Speaker last week. a standard product. Works well enough for basic everyday tasks.,3,Neutral
+Air Fryer,Do not buy this Air Fryer! waste of money! Do not buy. It stopped working after a week of use.,2,Negative
+Espresso Machine,"Got this Espresso Machine last week. the packaging was damaged, but the product inside was fine.",3,Neutral
+Ergonomic Office Chair,Do not buy this Ergonomic Office Chair! very noisy and vibrates too much. It is extremely annoying to use.,1,Negative
+Laptop Stand,This Laptop Stand is great. very robust construction and high-quality materials. Highly durable.,4,Positive
+Smart Watch,"For a Smart Watch, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Running Shoes,This Running Shoes is great. impressed by the battery life. Lasts more than two days on a single charge.,4,Positive
+Air Fryer,Do not buy this Air Fryer! very slow delivery and the product died within three days. Frustrated.,2,Negative
+Ergonomic Office Chair,This Ergonomic Office Chair was a complete letdown. cheap plastic construction. It fell once and shattered into pieces.,1,Negative
+Bluetooth Speaker,"I bought this Bluetooth Speaker and the sound quality is outstanding, noise cancellation works like a charm. Very satisfied.",4,Positive
+Robot Vacuum,I bought this Robot Vacuum and beautiful design and highly functional. It looks great in my living room.,4,Positive
+Espresso Machine,"Got this Espresso Machine last week. it works, but the user interface is a bit dated and slow.",3,Neutral
+Robot Vacuum,Bought this Robot Vacuum and regret it. very noisy and vibrates too much. It is extremely annoying to use.,1,Negative
+Laptop Stand,I bought this Laptop Stand and impressed by the battery life. Lasts more than two days on a single charge.,4,Positive
+Bluetooth Speaker,Do not buy this Bluetooth Speaker! completely useless. It does not fit the model it claimed to fit.,1,Negative
+Electric Toothbrush,"Got this Electric Toothbrush last week. the screen is good, but the battery drains faster than I liked.",3,Neutral
+Robot Vacuum,"Got this Robot Vacuum last week. shipping took longer than expected, but the item itself is fine.",3,Neutral
+Espresso Machine,"Regarding this Espresso Machine, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Air Fryer,This Air Fryer was a complete letdown. it is way too overpriced for such low-quality materials. Highly disappointed.,2,Negative
+Smart Watch,I bought this Smart Watch and beautiful design and highly functional. It looks great in my living room.,4,Positive
+Running Shoes,This Running Shoes is great. works exactly as advertised. Clean design and very efficient.,4,Positive
+Wireless Headphones,This Wireless Headphones is great. impressed by the battery life. Lasts more than two days on a single charge.,5,Positive
+Smart Watch,"Got this Smart Watch last week. shipping took longer than expected, but the item itself is fine.",3,Neutral
+Running Shoes,"For a Running Shoes, it serves its purpose. Neither disappointed nor overly impressed.",3,Neutral
+Ergonomic Office Chair,"For a Ergonomic Office Chair, shipping took longer than expected, but the item itself is fine.",3,Neutral
+Air Fryer,Bought this Air Fryer and regret it. very poor quality. The material is flimsy and feels like it will break easily.,2,Negative
+Ergonomic Office Chair,It fits perfectly and the fabric is extremely soft and durable.,5,Positive
+Smart Watch,"Regarding this Smart Watch, average battery life. It lasts about a day which is okay I guess.",3,Neutral
+Wireless Headphones,"Got this Wireless Headphones last week. average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Ergonomic Office Chair,The screen is blurry and has dead pixels. Zero quality control.,2,Negative
+Espresso Machine,The product arrived broken and the return process has been a nightmare.,2,Negative
+Espresso Machine,My new Espresso Machine arrived and great book! Couldn't put it down. Highly recommend to everyone.,4,Positive
+Electric Toothbrush,I bought this Electric Toothbrush and really simple to set up and use. The user manual was clear and helpful.,4,Positive
+Air Fryer,Do not buy this Air Fryer! waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Wireless Headphones,This Wireless Headphones is great. absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Ergonomic Office Chair,My new Ergonomic Office Chair arrived and excellent picture quality and great sound on this TV. Highly recommended.,4,Positive
+Smart Watch,Great value for money. Very fast delivery and excellent customer service.,4,Positive
+Espresso Machine,"For a Espresso Machine, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Electric Toothbrush,This Electric Toothbrush is great. outstanding customer service. They resolved my query within minutes.,4,Positive
+Ergonomic Office Chair,Bought this Ergonomic Office Chair and regret it. very slow delivery and the product died within three days. Frustrated.,2,Negative
+Laptop Stand,"Got this Laptop Stand last week. shipping took longer than expected, but the item itself is fine.",3,Neutral
+Running Shoes,This Running Shoes is great. excellent picture quality and great sound on this TV. Highly recommended.,5,Positive
+Wireless Headphones,Extremely disappointed. The item looks nothing like the picture.,2,Negative
+Robot Vacuum,My new Robot Vacuum arrived and it fits perfectly and the fabric is extremely soft and durable.,5,Positive
+Air Fryer,I bought this Air Fryer and outstanding customer service. They resolved my query within minutes.,5,Positive
+Air Fryer,Avoid at all costs! The product has a strong chemical smell and is defective.,1,Negative
+Laptop Stand,This Laptop Stand was a complete letdown. very slow delivery and the product died within three days. Frustrated.,2,Negative
+Electric Toothbrush,"Regarding this Electric Toothbrush, not bad for the price, but there are better options available.",3,Neutral
+Electric Toothbrush,Do not buy this Electric Toothbrush! very noisy and vibrates too much. It is extremely annoying to use.,2,Negative
+Bluetooth Speaker,"Regarding this Bluetooth Speaker, the packaging was damaged, but the product inside was fine.",3,Neutral
+Ergonomic Office Chair,My new Ergonomic Office Chair arrived and this blender is powerful and easy to clean. Best purchase I've made this year.,4,Positive
+Electric Toothbrush,I bought this Electric Toothbrush and very lightweight and easy to carry around. Ideal for travel.,5,Positive
+Laptop Stand,This Laptop Stand was a complete letdown. very poor quality. The material is flimsy and feels like it will break easily.,2,Negative
+Air Fryer,This Air Fryer is great. very lightweight and easy to carry around. Ideal for travel.,4,Positive
+Smart Watch,"Got this Smart Watch last week. the camera is average, does okay in daylight but poor in low light.",3,Neutral
+Ergonomic Office Chair,I bought this Ergonomic Office Chair and great value for money. Very fast delivery and excellent customer service.,4,Positive
+Espresso Machine,The sound is crackly and the connection keeps dropping. Completely unusable.,2,Negative
+Robot Vacuum,"Bought this Robot Vacuum and regret it. uncomfortable, heavy, and hurts my ears after ten minutes. Do not recommend.",1,Negative
+Smart Watch,"Got this Smart Watch last week. the camera is average, does okay in daylight but poor in low light.",3,Neutral
+Electric Toothbrush,This Electric Toothbrush was a complete letdown. worst purchase ever. The battery dies in two hours and it gets extremely hot.,2,Negative
+Smart Watch,Poorly designed. The buttons are unresponsive and hard to press.,2,Negative
+Electric Toothbrush,This Electric Toothbrush is great. very robust construction and high-quality materials. Highly durable.,4,Positive
+Air Fryer,My new Air Fryer arrived and very happy with this purchase. It is worth every single penny.,4,Positive
+Air Fryer,"Do not buy this Air Fryer! the size is completely wrong, way too tight and uncomfortable to wear.",1,Negative
+Wireless Headphones,The app integration is seamless and works flawlessly with my smartphone.,5,Positive
+Smart Watch,This Smart Watch is great. quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Espresso Machine,Bought this Espresso Machine and regret it. it keeps freezing and restarting on its own. Absolute garbage.,1,Negative
+Laptop Stand,I bought this Laptop Stand and this blender is powerful and easy to clean. Best purchase I've made this year.,5,Positive
+Laptop Stand,Very noisy and vibrates too much. It is extremely annoying to use.,1,Negative
+Electric Toothbrush,Bought this Electric Toothbrush and regret it. the product arrived broken and the return process has been a nightmare.,2,Negative
+Espresso Machine,"Uncomfortable, heavy, and hurts my ears after ten minutes. Do not recommend.",2,Negative
+Espresso Machine,"I bought this Espresso Machine and stunning quality, the packaging was secure and it arrived early.",5,Positive
+Ergonomic Office Chair,"Regarding this Ergonomic Office Chair, the design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Ergonomic Office Chair,I bought this Ergonomic Office Chair and impressed by the battery life. Lasts more than two days on a single charge.,4,Positive
+Ergonomic Office Chair,"Got this Ergonomic Office Chair last week. it's a mediocre product. Some features are good, others are lacking.",3,Neutral
+Espresso Machine,Completely useless. It does not fit the model it claimed to fit.,2,Negative
+Running Shoes,Bought this Running Shoes and regret it. very slow delivery and the product died within three days. Frustrated.,2,Negative
+Wireless Headphones,Absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Espresso Machine,Do not buy this Espresso Machine! extremely disappointed. The item looks nothing like the picture.,1,Negative
+Ergonomic Office Chair,Great book! Couldn't put it down. Highly recommend to everyone.,5,Positive
+Robot Vacuum,This blender is powerful and easy to clean. Best purchase I've made this year.,4,Positive
+Laptop Stand,"The screen is good, but the battery drains faster than I liked.",3,Neutral
+Robot Vacuum,I bought this Robot Vacuum and quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Laptop Stand,I bought this Laptop Stand and very lightweight and easy to carry around. Ideal for travel.,5,Positive
+Ergonomic Office Chair,"The fabric is fine, but the color is slightly different from the photos.",3,Neutral
+Laptop Stand,Poorly designed. The buttons are unresponsive and hard to press.,1,Negative
+Air Fryer,"Regarding this Air Fryer, fairly easy to use, though the app crashes occasionally.",3,Neutral
+Robot Vacuum,Do not buy this Robot Vacuum! waste of money! Do not buy. It stopped working after a week of use.,2,Negative
+Wireless Headphones,"The design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Electric Toothbrush,"Regarding this Electric Toothbrush, it works, but the user interface is a bit dated and slow.",3,Neutral
+Ergonomic Office Chair,Worst purchase ever. The battery dies in two hours and it gets extremely hot.,1,Negative
+Air Fryer,This Air Fryer was a complete letdown. avoid at all costs! The product has a strong chemical smell and is defective.,1,Negative
+Espresso Machine,"Regarding this Espresso Machine, it performs as expected. Nothing special, but it gets the job done.",3,Neutral
+Espresso Machine,Do not buy this Espresso Machine! waste of money! Do not buy. It stopped working after a week of use.,2,Negative
+Robot Vacuum,This Robot Vacuum is great. excellent build quality and very comfortable to use daily. Five stars!,5,Positive
+Wireless Headphones,This Wireless Headphones is great. this blender is powerful and easy to clean. Best purchase I've made this year.,5,Positive
+Smart Watch,Very fast performance and sleek design. Couldn't ask for a better laptop.,4,Positive
+Electric Toothbrush,"I bought this Electric Toothbrush and stunning quality, the packaging was secure and it arrived early.",4,Positive
+Espresso Machine,My new Espresso Machine arrived and the app integration is seamless and works flawlessly with my smartphone.,5,Positive
+Robot Vacuum,This Robot Vacuum is great. the screen is bright and colors are very vivid. Perfect for watching movies.,4,Positive
+Running Shoes,This Running Shoes is great. very lightweight and easy to carry around. Ideal for travel.,5,Positive
+Bluetooth Speaker,Do not buy this Bluetooth Speaker! poorly designed. The buttons are unresponsive and hard to press.,1,Negative
+Espresso Machine,"For a Espresso Machine, the camera is average, does okay in daylight but poor in low light.",3,Neutral
+Robot Vacuum,The keyboard has a great tactile feel and the backlighting is lovely.,4,Positive
+Bluetooth Speaker,"Regarding this Bluetooth Speaker, it serves its purpose. Neither disappointed nor overly impressed.",3,Neutral
+Running Shoes,"Got this Running Shoes last week. the design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Electric Toothbrush,"Regarding this Electric Toothbrush, the product works fine, but the setup was a bit confusing.",3,Neutral
+Wireless Headphones,Do not buy this Wireless Headphones! waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Air Fryer,I bought this Air Fryer and it fits perfectly and the fabric is extremely soft and durable.,4,Positive
+Ergonomic Office Chair,My new Ergonomic Office Chair arrived and excellent build quality and very comfortable to use daily. Five stars!,5,Positive
+Smart Watch,"Got this Smart Watch last week. the screen is good, but the battery drains faster than I liked.",3,Neutral
+Espresso Machine,Bought this Espresso Machine and regret it. the vacuum has zero suction power and just pushes dirt around. Useless.,1,Negative
+Wireless Headphones,"Regarding this Wireless Headphones, it works, but the user interface is a bit dated and slow.",3,Neutral
+Wireless Headphones,This Wireless Headphones is great. excellent build quality and very comfortable to use daily. Five stars!,4,Positive
+Electric Toothbrush,"For a Electric Toothbrush, not bad for the price, but there are better options available.",3,Neutral
+Bluetooth Speaker,Cheap plastic construction. It fell once and shattered into pieces.,2,Negative
+Running Shoes,Really simple to set up and use. The user manual was clear and helpful.,5,Positive
+Air Fryer,Bought this Air Fryer and regret it. terrible product. It broke on the first day and customer support was useless.,2,Negative
+Robot Vacuum,"The camera is average, does okay in daylight but poor in low light.",3,Neutral
+Espresso Machine,Very slow delivery and the product died within three days. Frustrated.,1,Negative
+Robot Vacuum,Do not buy this Robot Vacuum! extremely disappointed. The item looks nothing like the picture.,2,Negative
+Air Fryer,"Regarding this Air Fryer, the packaging was damaged, but the product inside was fine.",3,Neutral
+Espresso Machine,Very slow delivery and the product died within three days. Frustrated.,1,Negative
+Wireless Headphones,"For a Wireless Headphones, it does what it says, but the customer support was hard to reach.",3,Neutral
+Robot Vacuum,"This Robot Vacuum is great. stunning quality, the packaging was secure and it arrived early.",5,Positive
+Running Shoes,This Running Shoes is great. great book! Couldn't put it down. Highly recommend to everyone.,5,Positive
+Running Shoes,This Running Shoes is great. very fast performance and sleek design. Couldn't ask for a better laptop.,4,Positive
+Espresso Machine,This Espresso Machine is great. this blender is powerful and easy to clean. Best purchase I've made this year.,5,Positive
+Ergonomic Office Chair,Bought this Ergonomic Office Chair and regret it. waste of money! Do not buy. It stopped working after a week of use.,2,Negative
+Running Shoes,Absolutely love this product! It works perfectly and exceeds all my expectations.,5,Positive
+Robot Vacuum,Do not buy this Robot Vacuum! very slow and laggy. The app crashes every time I try to open it.,2,Negative
+Laptop Stand,"This Laptop Stand was a complete letdown. the size is completely wrong, way too tight and uncomfortable to wear.",1,Negative
+Wireless Headphones,I bought this Wireless Headphones and excellent picture quality and great sound on this TV. Highly recommended.,5,Positive
+Bluetooth Speaker,Do not buy this Bluetooth Speaker! extremely disappointed. The item looks nothing like the picture.,2,Negative
+Smart Watch,I bought this Smart Watch and quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Laptop Stand,"The fabric is fine, but the color is slightly different from the photos.",3,Neutral
+Air Fryer,Very noisy and vibrates too much. It is extremely annoying to use.,1,Negative
+Running Shoes,Bought this Running Shoes and regret it. avoid at all costs! The product has a strong chemical smell and is defective.,1,Negative
+Air Fryer,"For a Air Fryer, average battery life. It lasts about a day which is okay I guess.",3,Neutral
+Espresso Machine,Do not buy this Espresso Machine! dries out my skin and has an unpleasant smell. Waste of money.,1,Negative
+Wireless Headphones,This Wireless Headphones was a complete letdown. extremely disappointed. The item looks nothing like the picture.,2,Negative
+Espresso Machine,Do not buy this Espresso Machine! completely useless. It does not fit the model it claimed to fit.,2,Negative
+Laptop Stand,Bought this Laptop Stand and regret it. very slow delivery and the product died within three days. Frustrated.,1,Negative
+Electric Toothbrush,"For a Electric Toothbrush, it's a mediocre product. Some features are good, others are lacking.",3,Neutral
+Bluetooth Speaker,This Bluetooth Speaker is great. very happy with this purchase. It is worth every single penny.,5,Positive
+Electric Toothbrush,"Shipping took longer than expected, but the item itself is fine.",3,Neutral
+Laptop Stand,Waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Running Shoes,"For a Running Shoes, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Smart Watch,"The screen is good, but the battery drains faster than I liked.",3,Neutral
+Wireless Headphones,Cheap plastic construction. It fell once and shattered into pieces.,1,Negative
+Bluetooth Speaker,"Super comfortable shoes, perfect for running. Will definitely buy again.",5,Positive
+Robot Vacuum,"Bought this Robot Vacuum and regret it. uncomfortable, heavy, and hurts my ears after ten minutes. Do not recommend.",2,Negative
+Ergonomic Office Chair,"Regarding this Ergonomic Office Chair, it serves its purpose. Neither disappointed nor overly impressed.",3,Neutral
+Running Shoes,I bought this Running Shoes and beautiful design and highly functional. It looks great in my living room.,4,Positive
+Wireless Headphones,Bought this Wireless Headphones and regret it. very slow delivery and the product died within three days. Frustrated.,2,Negative
+Running Shoes,I bought this Running Shoes and works exactly as advertised. Clean design and very efficient.,5,Positive
+Electric Toothbrush,It is decent. Nothing to complain about but nothing to praise either.,3,Neutral
+Running Shoes,Impressed by the battery life. Lasts more than two days on a single charge.,5,Positive
+Bluetooth Speaker,The package arrived missing half the parts. Had to return it immediately.,2,Negative
+Espresso Machine,"Regarding this Espresso Machine, it is acceptable. Not the best build quality but works for now.",3,Neutral
+Running Shoes,"Regarding this Running Shoes, decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Electric Toothbrush,Bought this Electric Toothbrush and regret it. worst purchase ever. The battery dies in two hours and it gets extremely hot.,1,Negative
+Smart Watch,Got this Smart Watch last week. it's a fair product. Satisfactory performance but not outstanding.,3,Neutral
+Espresso Machine,"For a Espresso Machine, the packaging was damaged, but the product inside was fine.",3,Neutral
+Bluetooth Speaker,I bought this Bluetooth Speaker and the keyboard has a great tactile feel and the backlighting is lovely.,4,Positive
+Electric Toothbrush,The coffee maker brews quickly and keeps the coffee hot. Love it!,5,Positive
+Espresso Machine,"For a Espresso Machine, decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Espresso Machine,Excellent picture quality and great sound on this TV. Highly recommended.,5,Positive
+Espresso Machine,My new Espresso Machine arrived and quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Running Shoes,This Running Shoes is great. quiet and efficient vacuum cleaner. It picks up pet hair easily.,4,Positive
+Electric Toothbrush,Absolutely love this product! It works perfectly and exceeds all my expectations.,5,Positive
+Bluetooth Speaker,Got this Bluetooth Speaker last week. it is decent. Nothing to complain about but nothing to praise either.,3,Neutral
+Wireless Headphones,It is acceptable. Not the best build quality but works for now.,3,Neutral
+Wireless Headphones,Bought this Wireless Headphones and regret it. poor customer service. They refused to refund my money for a defective item.,1,Negative
+Bluetooth Speaker,I bought this Bluetooth Speaker and works exactly as advertised. Clean design and very efficient.,4,Positive
+Electric Toothbrush,This Electric Toothbrush was a complete letdown. worst purchase ever. The battery dies in two hours and it gets extremely hot.,1,Negative
+Ergonomic Office Chair,"Not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Laptop Stand,"Regarding this Laptop Stand, it is an okay product, not too good but not bad either. Average quality.",3,Neutral
+Ergonomic Office Chair,My new Ergonomic Office Chair arrived and excellent picture quality and great sound on this TV. Highly recommended.,5,Positive
+Air Fryer,Bought this Air Fryer and regret it. waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Smart Watch,I bought this Smart Watch and the battery life is amazing and the camera quality is excellent. Highly recommend!,4,Positive
+Espresso Machine,"Regarding this Espresso Machine, it is decent. Nothing to complain about but nothing to praise either.",3,Neutral
+Espresso Machine,Do not buy this Espresso Machine! avoid at all costs! The product has a strong chemical smell and is defective.,2,Negative
+Smart Watch,This Smart Watch was a complete letdown. brews lukewarm coffee and leaks from the bottom. Terrible design.,1,Negative
+Smart Watch,It keeps freezing and restarting on its own. Absolute garbage.,2,Negative
+Running Shoes,Brews lukewarm coffee and leaks from the bottom. Terrible design.,2,Negative
+Ergonomic Office Chair,Bought this Ergonomic Office Chair and regret it. the screen is blurry and has dead pixels. Zero quality control.,2,Negative
+Robot Vacuum,This Robot Vacuum was a complete letdown. brews lukewarm coffee and leaks from the bottom. Terrible design.,1,Negative
+Ergonomic Office Chair,I bought this Ergonomic Office Chair and really simple to set up and use. The user manual was clear and helpful.,5,Positive
+Espresso Machine,"The sound quality is outstanding, noise cancellation works like a charm. Very satisfied.",5,Positive
+Robot Vacuum,My new Robot Vacuum arrived and excellent build quality and very comfortable to use daily. Five stars!,4,Positive
+Bluetooth Speaker,My new Bluetooth Speaker arrived and excellent picture quality and great sound on this TV. Highly recommended.,5,Positive
+Running Shoes,Do not buy this Running Shoes! the package arrived missing half the parts. Had to return it immediately.,1,Negative
+Electric Toothbrush,Do not buy this Electric Toothbrush! very slow delivery and the product died within three days. Frustrated.,2,Negative
+Espresso Machine,Very robust construction and high-quality materials. Highly durable.,4,Positive
+Air Fryer,"Not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Laptop Stand,My new Laptop Stand arrived and the screen is bright and colors are very vivid. Perfect for watching movies.,5,Positive
+Smart Watch,Absolutely love this product! It works perfectly and exceeds all my expectations.,5,Positive
+Electric Toothbrush,My new Electric Toothbrush arrived and very lightweight and easy to carry around. Ideal for travel.,4,Positive
+Bluetooth Speaker,Do not buy this Bluetooth Speaker! poor customer service. They refused to refund my money for a defective item.,2,Negative
+Robot Vacuum,It is way too overpriced for such low-quality materials. Highly disappointed.,2,Negative
+Ergonomic Office Chair,"Super comfortable shoes, perfect for running. Will definitely buy again.",5,Positive
+Wireless Headphones,I bought this Wireless Headphones and very lightweight and easy to carry around. Ideal for travel.,4,Positive
+Espresso Machine,"Average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Smart Watch,"Got this Smart Watch last week. average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Ergonomic Office Chair,This Ergonomic Office Chair was a complete letdown. very slow delivery and the product died within three days. Frustrated.,2,Negative
+Air Fryer,My new Air Fryer arrived and very happy with this purchase. It is worth every single penny.,4,Positive
+Laptop Stand,"For a Laptop Stand, it does what it says, but the customer support was hard to reach.",3,Neutral
+Smart Watch,"Do not buy this Smart Watch! the size is completely wrong, way too tight and uncomfortable to wear.",2,Negative
+Laptop Stand,Do not buy this Laptop Stand! it keeps freezing and restarting on its own. Absolute garbage.,2,Negative
+Ergonomic Office Chair,My new Ergonomic Office Chair arrived and it fits perfectly and the fabric is extremely soft and durable.,4,Positive
+Wireless Headphones,Got this Wireless Headphones last week. a standard product. Works well enough for basic everyday tasks.,3,Neutral
+Espresso Machine,Average battery life. It lasts about a day which is okay I guess.,3,Neutral
+Wireless Headphones,Do not buy this Wireless Headphones! poorly designed. The buttons are unresponsive and hard to press.,2,Negative
+Electric Toothbrush,"Regarding this Electric Toothbrush, it is acceptable. Not the best build quality but works for now.",3,Neutral
+Espresso Machine,Bought this Espresso Machine and regret it. poor customer service. They refused to refund my money for a defective item.,1,Negative
+Bluetooth Speaker,Brews lukewarm coffee and leaks from the bottom. Terrible design.,1,Negative
+Espresso Machine,Bought this Espresso Machine and regret it. cheap plastic construction. It fell once and shattered into pieces.,2,Negative
+Electric Toothbrush,"Regarding this Electric Toothbrush, it is decent. Nothing to complain about but nothing to praise either.",3,Neutral
+Air Fryer,Bought this Air Fryer and regret it. dries out my skin and has an unpleasant smell. Waste of money.,2,Negative
+Bluetooth Speaker,This Bluetooth Speaker was a complete letdown. very poor quality. The material is flimsy and feels like it will break easily.,2,Negative
+Ergonomic Office Chair,"Got this Ergonomic Office Chair last week. the screen is good, but the battery drains faster than I liked.",3,Neutral
+Bluetooth Speaker,"For a Bluetooth Speaker, the fabric is fine, but the color is slightly different from the photos.",3,Neutral
+Laptop Stand,"Regarding this Laptop Stand, the fabric is fine, but the color is slightly different from the photos.",3,Neutral
+Espresso Machine,It is acceptable. Not the best build quality but works for now.,3,Neutral
+Robot Vacuum,It's a fair product. Satisfactory performance but not outstanding.,3,Neutral
+Running Shoes,Avoid at all costs! The product has a strong chemical smell and is defective.,2,Negative
+Running Shoes,"I bought this Running Shoes and super comfortable shoes, perfect for running. Will definitely buy again.",4,Positive
+Bluetooth Speaker,Do not buy this Bluetooth Speaker! very poor quality. The material is flimsy and feels like it will break easily.,1,Negative
+Electric Toothbrush,Do not buy this Electric Toothbrush! very noisy and vibrates too much. It is extremely annoying to use.,1,Negative
+Air Fryer,Do not buy this Air Fryer! very noisy and vibrates too much. It is extremely annoying to use.,2,Negative
+Robot Vacuum,I bought this Robot Vacuum and impressed by the battery life. Lasts more than two days on a single charge.,5,Positive
+Smart Watch,"Fairly easy to use, though the app crashes occasionally.",3,Neutral
+Electric Toothbrush,"The design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Running Shoes,"For a Running Shoes, it performs as expected. Nothing special, but it gets the job done.",3,Neutral
+Ergonomic Office Chair,Very slow delivery and the product died within three days. Frustrated.,2,Negative
+Smart Watch,"It performs as expected. Nothing special, but it gets the job done.",3,Neutral
+Robot Vacuum,"For a Robot Vacuum, shipping took longer than expected, but the item itself is fine.",3,Neutral
+Espresso Machine,This Espresso Machine was a complete letdown. very slow delivery and the product died within three days. Frustrated.,1,Negative
+Air Fryer,"For a Air Fryer, not a bad purchase, but I am not fully convinced it's worth the price.",3,Neutral
+Laptop Stand,My new Laptop Stand arrived and the coffee maker brews quickly and keeps the coffee hot. Love it!,5,Positive
+Smart Watch,Very happy with this purchase. It is worth every single penny.,5,Positive
+Ergonomic Office Chair,Do not buy this Ergonomic Office Chair! avoid at all costs! The product has a strong chemical smell and is defective.,1,Negative
+Espresso Machine,Do not buy this Espresso Machine! brews lukewarm coffee and leaks from the bottom. Terrible design.,1,Negative
+Running Shoes,The screen is bright and colors are very vivid. Perfect for watching movies.,5,Positive
+Ergonomic Office Chair,"Decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Wireless Headphones,Bought this Wireless Headphones and regret it. very poor quality. The material is flimsy and feels like it will break easily.,1,Negative
+Robot Vacuum,My new Robot Vacuum arrived and impressed by the battery life. Lasts more than two days on a single charge.,5,Positive
+Electric Toothbrush,Extremely disappointed. The item looks nothing like the picture.,2,Negative
+Bluetooth Speaker,"Bought this Bluetooth Speaker and regret it. the size is completely wrong, way too tight and uncomfortable to wear.",2,Negative
+Laptop Stand,The software is full of bugs and constant errors. Frustrating experience.,1,Negative
+Laptop Stand,Bought this Laptop Stand and regret it. it is way too overpriced for such low-quality materials. Highly disappointed.,2,Negative
+Smart Watch,My new Smart Watch arrived and quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Air Fryer,Beautiful design and highly functional. It looks great in my living room.,4,Positive
+Bluetooth Speaker,This Bluetooth Speaker is great. really simple to set up and use. The user manual was clear and helpful.,5,Positive
+Bluetooth Speaker,"Regarding this Bluetooth Speaker, the camera is average, does okay in daylight but poor in low light.",3,Neutral
+Ergonomic Office Chair,"Got this Ergonomic Office Chair last week. instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Air Fryer,The coffee maker brews quickly and keeps the coffee hot. Love it!,4,Positive
+Electric Toothbrush,The software is full of bugs and constant errors. Frustrating experience.,1,Negative
+Running Shoes,"Decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Wireless Headphones,This Wireless Headphones was a complete letdown. extremely disappointed. The item looks nothing like the picture.,1,Negative
+Espresso Machine,"Regarding this Espresso Machine, average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Bluetooth Speaker,Do not buy this Bluetooth Speaker! cheap plastic construction. It fell once and shattered into pieces.,2,Negative
+Electric Toothbrush,Quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Robot Vacuum,Do not buy this Robot Vacuum! dries out my skin and has an unpleasant smell. Waste of money.,2,Negative
+Laptop Stand,This Laptop Stand was a complete letdown. extremely disappointed. The item looks nothing like the picture.,1,Negative
+Air Fryer,I bought this Air Fryer and excellent build quality and very comfortable to use daily. Five stars!,5,Positive
+Laptop Stand,"Regarding this Laptop Stand, it's a fair product. Satisfactory performance but not outstanding.",3,Neutral
+Wireless Headphones,I bought this Wireless Headphones and the app integration is seamless and works flawlessly with my smartphone.,5,Positive
+Laptop Stand,I bought this Laptop Stand and excellent build quality and very comfortable to use daily. Five stars!,4,Positive
+Air Fryer,Absolutely love this product! It works perfectly and exceeds all my expectations.,4,Positive
+Smart Watch,This Smart Watch is great. the battery life is amazing and the camera quality is excellent. Highly recommend!,4,Positive
+Wireless Headphones,"Got this Wireless Headphones last week. it performs as expected. Nothing special, but it gets the job done.",3,Neutral
+Smart Watch,This Smart Watch was a complete letdown. dries out my skin and has an unpleasant smell. Waste of money.,2,Negative
+Wireless Headphones,"This Wireless Headphones is great. the sound quality is outstanding, noise cancellation works like a charm. Very satisfied.",5,Positive
+Electric Toothbrush,"For a Electric Toothbrush, a standard product. Works well enough for basic everyday tasks.",3,Neutral
+Electric Toothbrush,I bought this Electric Toothbrush and very happy with this purchase. It is worth every single penny.,5,Positive
+Smart Watch,"Regarding this Smart Watch, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Smart Watch,Do not buy this Smart Watch! very poor quality. The material is flimsy and feels like it will break easily.,2,Negative
+Running Shoes,This blender is powerful and easy to clean. Best purchase I've made this year.,4,Positive
+Ergonomic Office Chair,Bought this Ergonomic Office Chair and regret it. cheap plastic construction. It fell once and shattered into pieces.,1,Negative
+Running Shoes,I bought this Running Shoes and the keyboard has a great tactile feel and the backlighting is lovely.,5,Positive
+Running Shoes,My new Running Shoes arrived and very lightweight and easy to carry around. Ideal for travel.,5,Positive
+Air Fryer,"Got this Air Fryer last week. average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Laptop Stand,"For a Laptop Stand, it is an okay product, not too good but not bad either. Average quality.",3,Neutral
+Electric Toothbrush,"The fit is okay, but the size runs slightly smaller than expected.",3,Neutral
+Smart Watch,"Got this Smart Watch last week. the screen is good, but the battery drains faster than I liked.",3,Neutral
+Electric Toothbrush,"Stunning quality, the packaging was secure and it arrived early.",4,Positive
+Laptop Stand,Do not buy this Laptop Stand! very slow delivery and the product died within three days. Frustrated.,1,Negative
+Running Shoes,I bought this Running Shoes and impressed by the battery life. Lasts more than two days on a single charge.,4,Positive
+Smart Watch,Beautiful design and highly functional. It looks great in my living room.,4,Positive
+Robot Vacuum,Very happy with this purchase. It is worth every single penny.,5,Positive
+Bluetooth Speaker,My new Bluetooth Speaker arrived and quiet and efficient vacuum cleaner. It picks up pet hair easily.,5,Positive
+Running Shoes,Bought this Running Shoes and regret it. brews lukewarm coffee and leaks from the bottom. Terrible design.,1,Negative
+Robot Vacuum,"The fit is okay, but the size runs slightly smaller than expected.",3,Neutral
+Laptop Stand,"Regarding this Laptop Stand, decent quality for the price, but don't expect anything extraordinary.",3,Neutral
+Robot Vacuum,Waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Air Fryer,"For a Air Fryer, the product works fine, but the setup was a bit confusing.",3,Neutral
+Smart Watch,"My new Smart Watch arrived and super comfortable shoes, perfect for running. Will definitely buy again.",4,Positive
+Ergonomic Office Chair,"Regarding this Ergonomic Office Chair, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Smart Watch,I bought this Smart Watch and impressed by the battery life. Lasts more than two days on a single charge.,5,Positive
+Smart Watch,Bought this Smart Watch and regret it. brews lukewarm coffee and leaks from the bottom. Terrible design.,2,Negative
+Robot Vacuum,"It works, but the user interface is a bit dated and slow.",3,Neutral
+Running Shoes,"It's a mediocre product. Some features are good, others are lacking.",3,Neutral
+Robot Vacuum,"Got this Robot Vacuum last week. it performs as expected. Nothing special, but it gets the job done.",3,Neutral
+Smart Watch,"Got this Smart Watch last week. it is an okay product, not too good but not bad either. Average quality.",3,Neutral
+Espresso Machine,Do not buy this Espresso Machine! cheap plastic construction. It fell once and shattered into pieces.,2,Negative
+Air Fryer,The screen is bright and colors are very vivid. Perfect for watching movies.,5,Positive
+Wireless Headphones,"For a Wireless Headphones, the screen is good, but the battery drains faster than I liked.",3,Neutral
+Electric Toothbrush,My new Electric Toothbrush arrived and very robust construction and high-quality materials. Highly durable.,5,Positive
+Bluetooth Speaker,"Got this Bluetooth Speaker last week. the camera is average, does okay in daylight but poor in low light.",3,Neutral
+Ergonomic Office Chair,Got this Ergonomic Office Chair last week. a standard product. Works well enough for basic everyday tasks.,3,Neutral
+Robot Vacuum,"For a Robot Vacuum, average sound quality, lack of bass but acceptable for casual listening.",3,Neutral
+Ergonomic Office Chair,"Got this Ergonomic Office Chair last week. not bad for the price, but there are better options available.",3,Neutral
+Laptop Stand,The vacuum has zero suction power and just pushes dirt around. Useless.,2,Negative
+Robot Vacuum,This Robot Vacuum was a complete letdown. very noisy and vibrates too much. It is extremely annoying to use.,2,Negative
+Espresso Machine,I bought this Espresso Machine and beautiful design and highly functional. It looks great in my living room.,5,Positive
+Ergonomic Office Chair,"My new Ergonomic Office Chair arrived and stunning quality, the packaging was secure and it arrived early.",4,Positive
+Robot Vacuum,The coffee maker brews quickly and keeps the coffee hot. Love it!,4,Positive
+Running Shoes,This Running Shoes is great. outstanding customer service. They resolved my query within minutes.,4,Positive
+Ergonomic Office Chair,"For a Ergonomic Office Chair, the design is nice, but the material feels a bit cheap in hand.",3,Neutral
+Ergonomic Office Chair,This Ergonomic Office Chair was a complete letdown. waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Smart Watch,Waste of money! Do not buy. It stopped working after a week of use.,1,Negative
+Electric Toothbrush,"Not bad for the price, but there are better options available.",3,Neutral
+Espresso Machine,This Espresso Machine was a complete letdown. it is way too overpriced for such low-quality materials. Highly disappointed.,2,Negative
+Bluetooth Speaker,My new Bluetooth Speaker arrived and very fast performance and sleek design. Couldn't ask for a better laptop.,5,Positive
+Smart Watch,Beautiful design and highly functional. It looks great in my living room.,5,Positive
+Smart Watch,My new Smart Watch arrived and great value for money. Very fast delivery and excellent customer service.,5,Positive
+Robot Vacuum,Bought this Robot Vacuum and regret it. completely useless. It does not fit the model it claimed to fit.,2,Negative
+Laptop Stand,Do not buy this Laptop Stand! cheap plastic construction. It fell once and shattered into pieces.,1,Negative
+Robot Vacuum,Do not buy this Robot Vacuum! the package arrived missing half the parts. Had to return it immediately.,2,Negative
+Ergonomic Office Chair,"For a Ergonomic Office Chair, it is an okay product, not too good but not bad either. Average quality.",3,Neutral
+Espresso Machine,"For a Espresso Machine, the fit is okay, but the size runs slightly smaller than expected.",3,Neutral
+Robot Vacuum,It serves its purpose. Neither disappointed nor overly impressed.,3,Neutral
+Wireless Headphones,Bought this Wireless Headphones and regret it. worst purchase ever. The battery dies in two hours and it gets extremely hot.,2,Negative
+Ergonomic Office Chair,Do not buy this Ergonomic Office Chair! the product arrived broken and the return process has been a nightmare.,1,Negative
+Running Shoes,I bought this Running Shoes and the screen is bright and colors are very vivid. Perfect for watching movies.,4,Positive
+Air Fryer,Excellent picture quality and great sound on this TV. Highly recommended.,4,Positive
+Ergonomic Office Chair,Bought this Ergonomic Office Chair and regret it. brews lukewarm coffee and leaks from the bottom. Terrible design.,1,Negative
+Smart Watch,This Smart Watch was a complete letdown. extremely disappointed. The item looks nothing like the picture.,1,Negative
+Running Shoes,This Running Shoes is great. the app integration is seamless and works flawlessly with my smartphone.,5,Positive
+Air Fryer,"For a Air Fryer, instructions were mediocre, but I managed to set it up eventually.",3,Neutral
+Ergonomic Office Chair,"The design is nice, but the material feels a bit cheap in hand.",3,Neutral
