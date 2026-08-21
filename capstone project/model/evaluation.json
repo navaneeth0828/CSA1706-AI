@@ -1,0 +1,54 @@
+{
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "class_metrics": {
+        "Negative": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 32
+        },
+        "Neutral": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 32
+        },
+        "Positive": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0,
+            "support": 32
+        }
+    },
+    "confusion_matrix": [
+        [
+            32,
+            0,
+            0
+        ],
+        [
+            0,
+            32,
+            0
+        ],
+        [
+            0,
+            0,
+            32
+        ]
+    ],
+    "labels": [
+        "Negative",
+        "Neutral",
+        "Positive"
+    ],
+    "dataset_stats": {
+        "total_reviews": 480,
+        "positive_count": 160,
+        "neutral_count": 160,
+        "negative_count": 160
+    }
+}
