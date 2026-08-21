@@ -1,0 +1,152 @@
+{% extends "base.html" %}
+
+{% block title %}About - Sentiment Analysis of Product Reviews{% endblock %}
+
+{% block content %}
+<div class="row g-4">
+    <!-- Main Description Column -->
+    <div class="col-lg-8">
+        <!-- Project Objective -->
+        <div class="card custom-card mb-4">
+            <div class="card-body p-4">
+                <h2 class="fw-bold text-main mb-3"><i class="fa-solid fa-graduation-cap me-2 text-indigo"></i>Project Objective</h2>
+                <p class="text-muted leading-relaxed">
+                    This project builds an automated machine learning system that analyzes text-based customer feedback (product reviews) and classifies each review into one of three sentiment categories: <strong>Positive</strong>, <strong>Neutral</strong>, or <strong>Negative</strong>.
+                </p>
+                <p class="text-muted mb-0">
+                    By classifying opinion mining data, businesses can monitor brand reputation, spot negative feedback in real time to resolve service complaints, and extract actionable consumer insights to guide future product design.
+                </p>
+            </div>
+        </div>
+
+        <!-- NLP & Preprocessing Pipeline -->
+        <div class="card custom-card mb-4">
+            <div class="card-body p-4">
+                <h3 class="fw-bold text-main mb-3"><i class="fa-solid fa-list-check me-2 text-indigo"></i>NLP Preprocessing Pipeline</h3>
+                <p class="text-muted mb-4">Before raw reviews can be evaluated by the Machine Learning model, they must undergo extensive Natural Language Processing (NLP) to clean noise and standardize syntax. The pipeline consists of the following steps:</p>
+                
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <div class="p-3 border rounded-3 bg-light h-100">
+                            <h5 class="fw-bold text-indigo mb-2">1. Lowercase Standard</h5>
+                            <p class="text-muted small mb-0">Normalizes case representation (e.g. "Amazing" vs "amazing") to prevent the model from treating capitalized terms as unique features.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="p-3 border rounded-3 bg-light h-100">
+                            <h5 class="fw-bold text-indigo mb-2">2. Punctuation Strip</h5>
+                            <p class="text-muted small mb-0">Removes tags, commas, exclamation marks, and numeric symbols. Focuses classification strictly on alphabetical sentiment indicators.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="p-3 border rounded-3 bg-light h-100">
+                            <h5 class="fw-bold text-indigo mb-2">3. Tokenization</h5>
+                            <p class="text-muted small mb-0">Splits the continuous text strings into individual linguistic tokens (words) to analyze term frequency distributions.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="p-3 border rounded-3 bg-light h-100">
+                            <h5 class="fw-bold text-indigo mb-2">4. Stopword Removal</h5>
+                            <p class="text-muted small mb-0">Excludes highly frequent words that lack unique sentiment signal (e.g., "the", "is", "at", "for") using NLTK's English stopword corpus.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Machine Learning: Naive Bayes & TF-IDF -->
+        <div class="card custom-card mb-4">
+            <div class="card-body p-4">
+                <h3 class="fw-bold text-main mb-3"><i class="fa-solid fa-gears me-2 text-indigo"></i>Algorithms & Mathematical Models</h3>
+                
+                <h5 class="fw-semibold text-main mb-2">TF-IDF Vectorization</h5>
+                <p class="text-muted mb-4">
+                    TF-IDF (Term Frequency-Inverse Document Frequency) measures how important a word is to a document relative to a corpus.
+                    It weights common terms down and increases weights of unique sentiment words (like "terrible" or "perfect"), translating strings into high-dimensional mathematical vectors.
+                </p>
+                
+                <h5 class="fw-semibold text-main mb-2">Naive Bayes Classification</h5>
+                <p class="text-muted mb-3">
+                    Naive Bayes is a probabilistic classifier based on **Bayes' Theorem**. It is called "naive" because it assumes that the occurrence of a particular feature (word) is independent of the occurrence of other features.
+                </p>
+                
+                <div class="p-3 border border-indigo-subtle bg-primary-subtle text-indigo rounded-3 mb-0 font-monospace text-center">
+                    P(C | X) = [ P(X | C) &times; P(C) ] / P(X)
+                </div>
+                
+                <div class="mt-3 text-muted small">
+                    Where:
+                    <ul class="mb-0 mt-1">
+                        <li><strong>P(C | X)</strong>: Posterior probability of Class C (Positive/Neutral/Negative) given Feature Vector X.</li>
+                        <li><strong>P(X | C)</strong>: Likelihood of observing features X given that the document belongs to Class C.</li>
+                        <li><strong>P(C)</strong>: Prior probability of Class C in the dataset.</li>
+                        <li><strong>P(X)</strong>: Prior probability of observing Feature Vector X.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Tech Stack Sidebar -->
+    <div class="col-lg-4">
+        <div class="card custom-card">
+            <div class="card-header card-header-custom bg-indigo text-white py-3">
+                <h5 class="mb-0 fw-bold"><i class="fa-solid fa-layer-group me-2"></i>Technology Stack</h5>
+            </div>
+            <div class="card-body p-4">
+                <ul class="list-unstyled mb-0">
+                    <li class="d-flex align-items-center mb-3">
+                        <i class="fa-brands fa-python fa-xl text-primary me-3" style="width: 24px;"></i>
+                        <div>
+                            <strong class="d-block text-main">Python 3</strong>
+                            <small class="text-muted">Core programming language.</small>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center mb-3">
+                        <i class="fa-solid fa-flask fa-xl text-dark me-3" style="width: 24px;"></i>
+                        <div>
+                            <strong class="d-block text-main">Flask</strong>
+                            <small class="text-muted">Python-based lightweight micro web framework.</small>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center mb-3">
+                        <i class="fa-solid fa-robot fa-xl text-success me-3" style="width: 24px;"></i>
+                        <div>
+                            <strong class="d-block text-main">scikit-learn</strong>
+                            <small class="text-muted">TF-IDF Vectorizer and Multinomial Naive Bayes model.</small>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center mb-3">
+                        <i class="fa-solid fa-language fa-xl text-warning me-3" style="width: 24px;"></i>
+                        <div>
+                            <strong class="d-block text-main">NLTK</strong>
+                            <small class="text-muted">Natural Language Toolkit for stopwords and tokenization.</small>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center mb-3">
+                        <i class="fa-solid fa-database fa-xl text-info me-3" style="width: 24px;"></i>
+                        <div>
+                            <strong class="d-block text-main">SQLite 3</strong>
+                            <small class="text-muted">Relational database storing user query log history.</small>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center mb-3">
+                        <i class="fa-brands fa-bootstrap fa-xl text-purple me-3" style="width: 24px;" style="color: #6f42c1;"></i>
+                        <div>
+                            <strong class="d-block text-main">Bootstrap 5</strong>
+                            <small class="text-muted">Responsive responsive grids and layouts.</small>
+                        </div>
+                    </li>
+                    <li class="d-flex align-items-center">
+                        <i class="fa-solid fa-chart-pie fa-xl text-danger me-3" style="width: 24px;"></i>
+                        <div>
+                            <strong class="d-block text-main">Chart.js</strong>
+                            <small class="text-muted">Frontend dashboard metrics visualization.</small>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

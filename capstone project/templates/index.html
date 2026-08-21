@@ -1,0 +1,106 @@
+{% extends "base.html" %}
+
+{% block title %}Home - Sentiment Analysis of Product Reviews{% endblock %}
+
+{% block content %}
+<!-- Hero Section -->
+<div class="hero-section rounded-3 shadow-sm text-center text-md-start">
+    <div class="row align-items-center py-3 px-4">
+        <div class="col-md-8">
+            <h1 class="display-5 fw-bold mb-2">Sentiment Analysis of Product Reviews</h1>
+            <p class="lead mb-4 text-light-50">Classifying customer reviews as Positive, Neutral, or Negative using NLP and Machine Learning</p>
+            <div class="d-flex flex-wrap gap-3 justify-content-center justify-content-md-start">
+                <a href="{{ url_for('predict') }}" class="btn btn-light btn-lg fw-semibold px-4 py-2" id="btn-hero-predict">
+                    <i class="fa-solid fa-wand-magic-sparkles me-2 text-indigo"></i>Analyze Reviews
+                </a>
+                <a href="{{ url_for('dashboard') }}" class="btn btn-outline-light btn-lg px-4 py-2" id="btn-hero-dashboard">
+                    <i class="fa-solid fa-chart-pie me-2"></i>View Stats Dashboard
+                </a>
+            </div>
+        </div>
+        <div class="col-md-4 text-center d-none d-md-block">
+            <i class="fa-solid fa-comments-dollar fa-9x text-indigo opacity-75"></i>
+        </div>
+    </div>
+</div>
+
+<!-- Project Overview Section -->
+<div class="row g-4 mb-5">
+    <div class="col-md-4">
+        <div class="card custom-card h-100 p-3">
+            <div class="card-body">
+                <div class="d-inline-flex align-items-center justify-content-center bg-primary text-white rounded-3 p-3 mb-3">
+                    <i class="fa-solid fa-brain fa-xl"></i>
+                </div>
+                <h3 class="h5 fw-bold mb-2">Machine Learning Engine</h3>
+                <p class="text-muted mb-0">Powered by a trained Naive Bayes classifier. It translates raw text reviews into numerical vectors via TF-IDF to predict sentiment labels with calculated confidence levels.</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card custom-card h-100 p-3">
+            <div class="card-body">
+                <div class="d-inline-flex align-items-center justify-content-center bg-success text-white rounded-3 p-3 mb-3">
+                    <i class="fa-solid fa-filter-list fa-xl"><i class="fa-solid fa-gears"></i></i>
+                </div>
+                <h3 class="h5 fw-bold mb-2">NLP Text Preprocessing</h3>
+                <p class="text-muted mb-0">Cleans user text inputs dynamically using a precise natural language pipeline: lowercase standardization, punctuation stripping, tokenization, and stopword exclusion.</p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card custom-card h-100 p-3">
+            <div class="card-body">
+                <div class="d-inline-flex align-items-center justify-content-center bg-info text-white rounded-3 p-3 mb-3">
+                    <i class="fa-solid fa-chart-simple fa-xl"></i>
+                </div>
+                <h3 class="h5 fw-bold mb-2">Business Insights</h3>
+                <p class="text-muted mb-0">Aggregates prediction data and models accuracy metrics (Precision, Recall, F1) to provide businesses immediate oversight on customer satisfaction levels.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Sentiment Analysis Significance Section -->
+<div class="card custom-card overflow-hidden border-0 mb-4 p-2 bg-white">
+    <div class="row g-0 align-items-center">
+        <div class="col-lg-7 p-4">
+            <h2 class="fw-bold mb-3">Why is Sentiment Analysis crucial?</h2>
+            <p class="text-muted mb-4">
+                In today's e-commerce landscape, thousands of reviews are posted daily. Manually reading each review to gauge customer satisfaction is virtually impossible. Automated Sentiment Analysis bridges this gap.
+            </p>
+            
+            <ul class="list-unstyled mb-0">
+                <li class="d-flex align-items-start mb-3">
+                    <span class="badge bg-primary-subtle text-primary rounded-circle p-2 me-3"><i class="fa-solid fa-check"></i></span>
+                    <div>
+                        <strong class="d-block text-main">Understand Customer Satisfaction</strong>
+                        <span class="text-muted text-sm">Instantly group opinions to see if customers are satisfied with features, sizes, or delivery.</span>
+                    </div>
+                </li>
+                <li class="d-flex align-items-start mb-3">
+                    <span class="badge bg-danger-subtle text-danger rounded-circle p-2 me-3"><i class="fa-solid fa-triangle-exclamation"></i></span>
+                    <div>
+                        <strong class="d-block text-main">Identify Negative Feedback Early</strong>
+                        <span class="text-muted text-sm">Pinpoint upset customers immediately to troubleshoot product defects or customer service failures.</span>
+                    </div>
+                </li>
+                <li class="d-flex align-items-start">
+                    <span class="badge bg-success-subtle text-success rounded-circle p-2 me-3"><i class="fa-solid fa-arrow-trend-up"></i></span>
+                    <div>
+                        <strong class="d-block text-main">Product Development Support</strong>
+                        <span class="text-muted text-sm">Extract actionable intelligence from reviews to drive engineering improvements and updates.</span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="col-lg-5 d-none d-lg-block p-4">
+            <div class="text-center">
+                <i class="fa-solid fa-diagram-project fa-10x text-primary opacity-25"></i>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
